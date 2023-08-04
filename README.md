@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiiivx&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bluyx&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiiivx&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluyx&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages" />
 </p>
