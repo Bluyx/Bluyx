@@ -6,7 +6,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,discord,golang,html,js,mongodb,nodejs,php,python,ts,bootstrap" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=arduino,eclipse,idea" alt="Skills" /><br />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,flask,html,react" alt="Skills" /><br />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,dart,go,java,js,lua,php,py,rust" alt="Skills" /><br />
+    <img src="https://skillicons.dev/icons?i=discord,django,docker,dotnet,express,flutter,jquery,kali,nodejs" alt="Skills" />
   </a>
 </p>
 
