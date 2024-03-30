@@ -14,6 +14,6 @@
 </p>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bluyx&theme=tokyonight" width="50%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bluyx&theme=tokyonight" width="50%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bluyx&theme=tokyonight" width="45%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bluyx&theme=tokyonight" width="45%">
 </div>
