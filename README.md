@@ -13,10 +13,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bluyx&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluyx&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages" />
-</p>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bluyx&theme=tokyonight" width="50%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bluyx&theme=tokyonight" width="50%">
+</div>
